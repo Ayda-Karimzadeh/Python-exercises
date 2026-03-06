@@ -1,0 +1,2 @@
+One might argue that a book about code is somehow behind the times—that code is no
+longer the issue that we should be concerned about models and requirements instead.
