@@ -11,7 +11,7 @@ print(mylist)
 # import glob
 
 # letters = []
-# file_list = glob.glob("letters/*.txt")
+# file_list = glob.glob("*.txt")
 
 # for filename in file_list:
 #     with open(filename,"r") as file:
