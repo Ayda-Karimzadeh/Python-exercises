@@ -1,0 +1,30 @@
+{
+    "employees": [
+        {
+            "firstName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Smith"
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Jones"
+        },
+        {
+            "firstName": "Ayda",
+            "lastName": "Karimzadeh"
+        }
+    ],
+    "owners": [
+        {
+            "firstName": "Jack",
+            "lastName": "Petter"
+        },
+        {
+            "firstName": "Jessy",
+            "lastName": "Petter"
+        }
+    ]
+}
