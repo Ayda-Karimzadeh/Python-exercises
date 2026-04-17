@@ -5,6 +5,7 @@ This repository contains my Python practice exercises and problem solutions.
 ## Sources
 - HackerRank (Practice problems)
 - Personal exercises
+- Quera.ir
 
 ## Purpose
 - Improve problem-solving skills
