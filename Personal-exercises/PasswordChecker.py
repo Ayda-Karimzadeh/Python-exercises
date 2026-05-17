@@ -1,9 +1,9 @@
 password = input("Enter new password:")
 
-numal = password.isalnum()
+has_num = any(i.isdigit() for i in p)
 has_upper = any(i.isupper() for i in password)
 
-if numal and has_upper and 5<=len(password):
+if has_num and has_upper and 5<=len(password):
     print("fine")
 
 else:
