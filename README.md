@@ -6,6 +6,8 @@ This repository contains my Python practice exercises and problem solutions.
 - HackerRank (Practice problems)
 - Personal exercises
 - Quera.ir
+- LeetCode
+- Udemy course : https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
 
 ## Purpose
 - Improve problem-solving skills
