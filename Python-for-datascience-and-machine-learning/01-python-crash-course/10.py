@@ -12,5 +12,4 @@ seq = ['soup','dog','salad','cat','great']
 selected = filter(lambda x: x.startswith('s'), seq)
 print(list(selected))
 
-# selected = filter(lambda x: x[0] == 's', seq)
-# print(list(selected))
+# print(list(filter(lambda x: x[0] == 's', seq)))

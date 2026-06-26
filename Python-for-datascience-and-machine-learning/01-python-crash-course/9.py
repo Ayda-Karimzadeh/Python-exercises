@@ -5,3 +5,10 @@ def countDog(text):
     return text.count("dog")
 
 print(countDog('This dog runs faster than the other dog dude!'))
+
+# def countDog(st):
+#     count = 0
+#     for word in st.lower().split():
+#         if word == 'dog':
+#             count += 1
+#     return count

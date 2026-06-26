@@ -10,6 +10,6 @@
 #         print(a.group(1))
 
 def domainGet(email):
-    return email.split('@')[1]
+    return email.split('@')[-1]
 
 domainGet('user@domain.com')

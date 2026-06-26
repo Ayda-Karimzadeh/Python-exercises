@@ -2,6 +2,6 @@
 #  Don't worry about edge cases like a punctuation being attached to the word dog,but do account for capitalization. **
 
 def findDog(a):
-    return 'dog' in a.lower()
+    return 'dog' in a.lower().split()
 
 print(findDog('Is there a dog here?'))
